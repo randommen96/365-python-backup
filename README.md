@@ -7,3 +7,8 @@ also create an app registration in your tenant: https://ecederstrand.github.io/e
 
 usage:
 main.py mailfoldername filenametosaveto.mbox
+
+to do:
+- add option to automatically fetch all folders
+- maybe figure out less api rights
+- look into ms graph api
