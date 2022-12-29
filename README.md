@@ -6,4 +6,4 @@ make sure to install exchangelib with pip3 install exchangelib and fill in the a
 also create an app registration in your tenant: https://ecederstrand.github.io/exchangelib/#oauth-on-office-365
 
 usage:
-main.py <mailfoldername> <filenametosaveto.mbox>
+main.py mailfoldername filenametosaveto.mbox
